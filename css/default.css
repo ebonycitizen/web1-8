@@ -36,7 +36,7 @@ body{
 #gnav a {
   display: block;
   text-align: center;
-  padding 0 20px;
+  padding 0 10px;
   text-decoration: none;
   background: darkorange;
   color: mistyrose;
@@ -46,7 +46,7 @@ body{
   display: table-cell;
   vertical-align: middle;
   background: url(../img/icon.png) no-repeat;
-  width: 40px;
+  width: 30px;
   height: 30px;
 }
 
