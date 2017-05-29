@@ -57,10 +57,10 @@ body{
 }
 
 div.img#home { background-position: 0 0px;}
-div.img#content1 { background-position: 0 -33px;}
-div.img#content2 { background-position: 0 -66px;}
-div.img#help { background-position: 0 -99px;}
-div.img#faq { background-position: 0 -132px;}
+div.img#content1 { background-position: 0 -34px;}
+div.img#content2 { background-position: 0 -68px;}
+div.img#help { background-position: 0 -102px;}
+div.img#faq { background-position: 0 -136px;}
 
 #gnav a:hover{
   background: goldenrod;
