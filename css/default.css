@@ -58,9 +58,9 @@ body{
 
 div.img#home { background-position: 0 0px;}
 div.img#content1 { background-position: 0 -28px;}
-div.img#content2 { background-position: 0 -58px;}
-div.img#help { background-position: 0 -88px;}
-div.img#faq { background-position: 0 -118px;}
+div.img#content2 { background-position: 0 -56px;}
+div.img#help { background-position: 0 -84px;}
+div.img#faq { background-position: 0 -112px;}
 
 #gnav a:hover{
   background: goldenrod;
