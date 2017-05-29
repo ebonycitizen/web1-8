@@ -18,17 +18,37 @@ body{
   content:"";
 }
 
+#gnav a {
+  display: block;
+  padding: 10px 0;
+  text-align: center;
+  text-decoration: none;
+  background: darkorange;
+  color: mistyrose;
+}
+
+#gnav a:hover{
+  background: goldenrod;
+  color: darkgray;
+}
+
+#gnav a.selected {
+  background:mistyrose;
+  color:darkorange;
+  font-weight: bold;
+}
+
 #gnav ul {
   overflow: hidden;
 }
 
-#ngav li {
+#gnav li {
   float: left;
   width: 156px;
   border-right: darkorange 1px solid;
   list-style-type: none;
 }
 
-#ngav:first-child {
+#gnav:first-child {
   border-left: darkorange 1px solid;
 }
