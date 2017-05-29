@@ -12,7 +12,7 @@ body{
 #logo li {
   display: table-cell;
   vertical-align: middle;
-  padding: 0 10px;
+  padding: 0 20px;
   list-style-type: none;
 }
 
