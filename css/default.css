@@ -2,6 +2,7 @@
 
 body{
   background-color: wheat;
+  color: orange;
 }
 
 .breadcrumbs li {
@@ -15,4 +16,19 @@ body{
 
 .breadcrumbs li:first-child:before{
   content:"";
+}
+
+#gnav ul {
+  overflow: hidden;
+}
+
+#ngav li {
+  float: left;
+  width: 156px;
+  border-right: darkorange 1px solid;
+  list-style-type: none;
+}
+
+#ngav:first-child {
+  border-left: darkorange 1px solid;
 }
