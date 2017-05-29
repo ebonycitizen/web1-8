@@ -12,7 +12,7 @@ body{
 #logo li {
   display: table-cell;
   vertical-align: middle;
-  padding: 0 20px;
+  padding: 0 10px;
   list-style-type: none;
 }
 
@@ -36,7 +36,7 @@ body{
 #gnav a {
   display: block;
   text-align: center;
-  padding 0 10px;
+  padding 0 20px;
   text-decoration: none;
   background: darkorange;
   color: mistyrose;
