@@ -17,7 +17,7 @@ body{
 }
 
 #logo img {
-  width: 100px;
+  width: 50px;
 }
 
 .breadcrumbs li {
@@ -44,7 +44,7 @@ body{
 
 #gnav a:hover{
   background: goldenrod;
-  color: darkgray;
+  color: dimgray;
 }
 
 #gnav a.selected {
